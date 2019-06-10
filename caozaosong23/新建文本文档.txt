@@ -1,0 +1,7 @@
+origin48       https://github.com/pkzhbin1/origin48.git
+
+git config --global user.name "48caozaosong"
+git config --global user.email "1046981813@qq.com"
+
+’À∫≈£∫48caozaosong
+√‹¬Î£∫Caozaosong520134
