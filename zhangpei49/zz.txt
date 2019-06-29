@@ -12,5 +12,3 @@ https://stu147b71:8443/svn/wawa
 https://github.com/pkzhbin1/origin48.git
 
 
- git config --global user.name "zhangpeill"    
-git config --global user.email "214902463@qq.com"
