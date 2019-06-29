@@ -1,0 +1,3 @@
+https://github.com/pkzhbin1/origin48.git
+git config --global user.name "patlick"    
+git config --global user.email "232594355@qq.com"
