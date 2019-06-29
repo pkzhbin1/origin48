@@ -1,0 +1,9 @@
+如果误删除了一个文件，怎么恢复？
+git reset HEAD liuhuan/新建文本文档.txt　　
+git checkout liuhuan/新建文本文档.txt
+
+git reset HEAD liuhuan/\346\226\260\345\273\272\346\226\207\346\234\254\346\226\207\346\241\243.txt
+git checkout liuhuan/新建文本文档.txt
+
+如果我们不知道之前删除了哪些文件或则文件夹，可以用如下命令查看到：
+git status
